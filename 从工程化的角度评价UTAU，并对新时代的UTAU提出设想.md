@@ -10,7 +10,7 @@ UTAU作为歌声合成技术的实验室，拥有丰富的引擎、插件和音�
 ![QPitchEditor by 至精至简](Resource/2021-03-27-18-37-23.png)
 [QPitchEditor](https://www.bilibili.com/video/av714520647)
 
-这是因为，UTAU逐渐无法满足目前后端引擎，尤其是AI引擎的需求。歌声合成圈子正等待着一款“新时代的UTAU”的出现。
+这是因为，UTAU逐渐无法满足目前后端引擎，尤其是AI引擎的需求。歌声合成圈子正等待着一款“新时代的UTAU”的出现。本文将从工程化的角度总结UTAU的优缺点，并为“新时代的UTAU”提供设计思路。
 
 ## UTAU的工作原理
 ![](Resource/2021-03-27-16-25-02.png)
