@@ -88,4 +88,15 @@ C# .net framework也不开源，但是提供了[C#语言规范](https://www.ecma
 
 罗马不是一天建成的，这个“新时代的UTAU”也将是由开源社区的开发者添砖加瓦，逐步实现的。
 
+## 附表：现有的开放式/开源歌声合成前端框架列表
+收录标准：(1) 开源的gui歌声合成框架 或 (2)拥有开放接口的歌声合成框架
+|框架|主要开发者|编程语言/框架|状态|开源|兼容utau|支持其他api|
+|-|-|-|-|-|-|-|
+|[UTAU](http://utau2008.xrea.jp/)|Ameya Ayame|Visual Basic|正式版，停更||√||
+|[OpenUTAU](https://github.com/stakira/OpenUtau)|[stakira](https://github.com/stakira)|C# .net WPF|预览版|√|√||
+|[UTSU](https://github.com/titinko/utsu)|[titinko](https://github.com/titinko)|Java|正式版，活跃开发|√|√|[讨论](https://github.com/titinko/utsu/issues/69)|
+|[QSynthesis](https://www.bilibili.com/video/av714520647)|[至精至简](https://space.bilibili.com/87172593)|C++ Qt|内测||√||
+|[Infinity](https://space.bilibili.com/1579918535)|[Wuchang](https://github.com/FangCunWuChang)|C++ Qt lua|开发中|√|计划|√|
+|[Vogen](https://github.com/aqtq314/Vogen.Client)|[Doaz](https://github.com/aqtq314)|F# .net WPF|预览版|√|||
+
 [评论区](https://github.com/oxygen-dioxide/singblog/issues/1)
