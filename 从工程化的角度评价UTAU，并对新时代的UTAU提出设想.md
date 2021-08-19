@@ -94,9 +94,10 @@ C# .net framework也不开源，但是提供了[C#语言规范](https://www.ecma
 |-|-|-|-|-|-|-|
 |[UTAU](http://utau2008.xrea.jp/)|Ameya Ayame|Visual Basic|正式版，停更||√||
 |[OpenUTAU](https://github.com/stakira/OpenUtau)|[stakira](https://github.com/stakira)|C# .net WPF|预览版|√|√||
-|[UTSU](https://github.com/titinko/utsu)|[titinko](https://github.com/titinko)|Java|正式版，活跃开发|√|√|[讨论](https://github.com/titinko/utsu/issues/69)|
+|[UTSU](https://github.com/titinko/utsu)|[titinko](https://github.com/titinko)|Java|正式版，活跃开发|√|√|[NNSVS:讨论](https://github.com/titinko/utsu/issues/69)|
 |[QSynthesis](https://www.bilibili.com/video/av714520647)|[至精至简](https://space.bilibili.com/87172593)|C++ Qt|内测||√||
 |[Infinity](https://space.bilibili.com/1579918535)|[Wuchang](https://github.com/FangCunWuChang)|C++ Qt lua|开发中|√|计划|√|
 |[Vogen](https://github.com/aqtq314/Vogen.Client)|[Doaz](https://github.com/aqtq314)|F# .net WPF|预览版|√|||
+|[Muon](https://github.com/SwadicalRag/muon)|[SwadicalRag](https://github.com/SwadicalRag)|Dart Flutter|预览版，停更|√||Neutrino|
 
 [评论区](https://github.com/oxygen-dioxide/singblog/issues/1)
