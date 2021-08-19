@@ -1,5 +1,10 @@
 # 从工程角度评价UTAU，并对新时代的UTAU提出设想
 
+[Github](https://github.com/oxygen-dioxide/singblog/blob/main/%E4%BB%8E%E5%B7%A5%E7%A8%8B%E5%8C%96%E7%9A%84%E8%A7%92%E5%BA%A6%E8%AF%84%E4%BB%B7UTAU%EF%BC%8C%E5%B9%B6%E5%AF%B9%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84UTAU%E6%8F%90%E5%87%BA%E8%AE%BE%E6%83%B3.md) | 
+[Gitee](https://gitee.com/oxygendioxide/singblog/blob/main/%E4%BB%8E%E5%B7%A5%E7%A8%8B%E5%8C%96%E7%9A%84%E8%A7%92%E5%BA%A6%E8%AF%84%E4%BB%B7UTAU%EF%BC%8C%E5%B9%B6%E5%AF%B9%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84UTAU%E6%8F%90%E5%87%BA%E8%AE%BE%E6%83%B3.md) | 
+[知乎](https://zhuanlan.zhihu.com/p/360548749) | 
+[bilibili](https://www.bilibili.com/read/cv10500223?from=search)
+
 [评论区](https://github.com/oxygen-dioxide/singblog/issues/1)
 ## 背景
 UTAU作为歌声合成技术的实验室，拥有丰富的引擎、插件和音源生态。多种音源架构（整音、CVVC、VCV），多种合成算法（psola、world、llsm）都在UTAU上实现。Vocaloid和SynthV等商业软件也从UTAU中吸收了很多设计思路。UTAU大大推动了歌声合成技术的发展。
